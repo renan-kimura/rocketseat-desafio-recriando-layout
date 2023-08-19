@@ -1,0 +1,77 @@
+body {
+
+    text-align: center;
+    margin: 0;
+  }
+.body-svg{
+      margin: 0 0 32px 0;
+ }
+.main h1{
+    color: #3F3D56;
+    text-align: center;
+    font-family: Dosis;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.main p{
+    color: #828282;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 146.667% */
+    width: 540px;
+    margin: auto;
+    margin-bottom: 32px;
+}
+.main span{
+    color: #EE24FF;
+    font-family: Dosis;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main b{
+    color: #3F3D56;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+.line{
+    border: 1px solid #ECEFF2;
+    margin: auto;
+    width: 391px;
+    text-align: center;
+}
+.footer p{
+    margin-right: 42px;
+    font-size: 15px;
+    color: #3F3D56;
+    text-align: center;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 147.682%; /* 22.152px */    
+}
+
+.footer-svg{
+    width: 100%;
+    height: 104px;
+}
+.footer-text{
+    display: flex;
+    justify-content: center;
+}
